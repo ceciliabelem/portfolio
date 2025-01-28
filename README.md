@@ -1,31 +1,39 @@
-# Projeto Final: HTML e CSS - Trabalhando com Responsividade e Publicação de Projetos 🚀
+# Portfólio - Cecília Belém
 
-🎉 Estou muito feliz em compartilhar meu progresso nos estudos! Este repositório contém o projeto final que desenvolvi durante o curso **"HTML e CSS: Trabalhando com Responsividade e Publicação de Projetos"** da [Alura](https://www.alura.com.br). Foi uma jornada incrível de aprendizado e evolução!
+Este projeto é uma aplicação web simples e responsiva desenvolvida para apresentar o portfólio profissional de Cecília Belém, destacando sua experiência em acessibilidade digital e análise de dados.
 
-## 💡 O que eu aprendi:
-- **Responsividade**: Tornei meu site adaptável para diferentes tamanhos de tela, garantindo uma ótima experiência para usuários de desktops, tablets e celulares.
-- **Media Queries**: Aprendi como usar `@media` para aplicar estilos específicos a diferentes larguras de tela.
-- **Publicação de Projetos**: Descobri como publicar meu projeto final na web e mostrá-lo ao mundo!
-- **Medidas Absolutas x Relativas**: Compreendi a diferença entre unidades como `px`, `%`, `em` e `rem` para criar layouts mais flexíveis e escaláveis.
+## Funcionalidades
 
-## 🌐 Acesse o projeto
-[🔗 Clique aqui para visualizar meu site publicado!](https://seuusuario.github.io/seuprojeto)
+- Navegação intuitiva entre as páginas do portfólio.
+- Apresentação de resultados profissionais e habilidades.
+- Links para perfis no GitHub e LinkedIn.
+- Layout responsivo para diferentes dispositivos.
 
-## 🛠️ Tecnologias Utilizadas
-- **HTML5**
-- **CSS3**
-- **Git** e **GitHub**
+## Tecnologias Utilizadas
 
-## 📚 Sobre o curso
-Este projeto foi desenvolvido como parte do curso da Alura, onde aprendi os fundamentos de responsividade e como publicar projetos na web. Foi um grande passo para minha jornada como desenvolvedora!
+- **HTML5**: Estrutura do conteúdo.
+- **CSS3**: Estilização e design responsivo.
+- **Google Fonts**: Fontes `Krona One` e `Montserrat`.
 
-## 🙌 Agradecimentos
-Agradeço à equipe da Alura e à comunidade por proporcionarem materiais de alta qualidade e um ambiente de aprendizado acolhedor. Este é apenas o começo!
+## Design
 
----
+- **Cores**:
+  - Preto (#000)
+  - Rosa claro (#F6E9E9)
+  - Verde água (#14FFEC)
+- **Fontes**:
+  - Krona One: Títulos e destaques.
+  - Montserrat: Conteúdo geral.
 
-Se você gostou deste projeto ou tem alguma sugestão, sinta-se à vontade para deixar uma ⭐ ou contribuir! 😊
+## Como Visualizar
 
-#HTML #CSS #AprendiNaAlura
-# portfolio
-This repository contains my portfolio as well as my HTML and CSS practice projects.
+Você pode acessar o projeto diretamente pelos seguintes links:
+
+- [Portfólio no Vercel](https://portfolio-seven-eta-49.vercel.app/)
+- [Portfólio no GitHub Pages](https://ceciliabelem.github.io/portfolio/)
+
+Caso prefira rodar localmente:
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/ceciliabelem/portfolio.git
